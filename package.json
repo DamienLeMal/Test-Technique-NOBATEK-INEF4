@@ -1,0 +1,15 @@
+{
+    "name": "com.damienlemal.nobatekinef4testtechnique",
+    "version": "1.0.0",
+    "displayName": "Damien Le Mâl Test Technique pour Nobatek Inef4",
+    "description": "Création d’un menu ré organisable (Tear off menu) dans Unity avec UI Toolkit + adressable + Scriptable Object.",
+    "unity": "2022.3",
+    "author": {
+        "name": "Damien Le Mâl",
+        "email": "damienlemaldlm@gmail.com"
+    },
+    "dependencies": {
+        "com.unity.addressables": "1.21.21",
+        "com.unity.textmeshpro": "3.0.6"
+    }
+}
